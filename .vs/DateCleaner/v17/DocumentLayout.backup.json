@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akclark\\source\\repos\\DateCleaner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE22163B-8D54-42E1-BA9E-12221F079780}|DateCleaner.pyproj|C:\\Users\\akclark\\source\\repos\\DateCleaner\\DateCleaner.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE22163B-8D54-42E1-BA9E-12221F079780}|DateCleaner.pyproj|solutionrelative:DateCleaner.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DateCleaner.py",
+              "DocumentMoniker": "C:\\Users\\akclark\\source\\repos\\DateCleaner\\DateCleaner.py",
+              "RelativeDocumentMoniker": "DateCleaner.py",
+              "ToolTip": "C:\\Users\\akclark\\source\\repos\\DateCleaner\\DateCleaner.py*",
+              "RelativeToolTip": "DateCleaner.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAxoSURBVFhHnVcJtFVVGf7OOfecO7zx3jfyeAOTGJBEmiJoipquABNEU9MQh3LKYZmaUy5Eo3QpllmtNLSCUGyt1EwjEBCTWuUSRUEQUXlMMrwH747nDmfq\u002B/e99zlBq9Ve9797Ouf/v/39//73Pvh/Su0N0y9s2/7rzW0fPrK564OfTtBqI5WZQ5e5b3y9\u002B7s75yyudA9fgiDQKs3/WiJDGhrD3YmmUX\u002B69txkJHp70jPr9GJJ0z0Xhu/ldde9bs/J85/RXC/l9mcD9U69qUXqzNpLnjj\u002B7K5jm\u002B99vL\u002B57f2v/jZa2pdX84crhwUUH9GkhxORUUYITROfveL7TsycsQex0H7bRM4B9MCD7vkI\u002BQTl\u002BtJ\u002BSt\u002B576Gd31uyOZxOu9PmjT9i4oXDrw7Dv2hdtqZhWboOR\u002Bb6ul45dunuiolDls8Bio\u002BM13V\u002BsXn8iVdNHJ44rv1qLaYduyeoCW0u1KHXjqKAAJrvwyAYQ9VlQFTkI9C24r0dj47rfT055ZLu2WENJ3q\u002BZi45EEe/G8LR9sC3nzlmyZMVU4csg4Dq22PxSeeM/PrYyUPGH3nGiOm6iTFp3TS2ezX4V6kF25wYPI1ggjIYvQJKdz2y5CsddUYRR0YPFMbGDhYSRrExQu0b8xGsydTyPWBcPrlg6YQnb1EPH6YoQJF6q\u002B7sB0\u002BZd9JZXedZOtqzgaEf9MIY8EPYUKjHBjMBLxRSShU7vlcBRTAEpAUBOqwsxtT0ocfKoMZwIWFO7HgpU4fdJRMRvjwsm/rrHyYsPVNsHq4oQPUdtUNuXTdnXUzz2rO\u002BAZFUfwH9u9J43w4jBRN5UiaGQSAMXmhSewEsgmq1cmgLZZEI5WHyGWEvxPqgE8K7xSgcAjM5Vpu2e/9\u002B2z9voMn1lJ1i\u002B7OlCqjj1tfnbDEQ1OQIJhcY2PfWbuxduRGZtIOCo8HOOvBKPnzGi08ggUvDfDdqaghrHoG6/Mk4550AHocKWgh56goIXt4Lip6b3JrcwNfmUZ4X258tolNQCTCzRAJKbDrMBg4VuLkCkMoB6Rz0tA2tPw30Z5RYHKspyHgOxYM2cn1F5PcXkaGk2E4dKCJLcfo432ejeKCAYrIUop12SlTsHqoY8lfTFGn86uVH3VxACAUyVAhCSH6Ugf3uRyjZJXQNGYUpx0/F2BHjMHrEWHS0tZEBG4V8AZ7jwSVz8DXUxBpx3FdOxOmnTsOIkWOQydpIptJwSVfgkz260Y3ELe3iBzIYO/UlbFzBiU\u002BnJUGMu16bPTRLtyhmSBoZh\u002B3pVMTApHsmHHkc7r7\u002BARSKeThOCZYVwf6\u002BPXjwkblY9fIyclrCpImn4K7b70Pn0B7kCwVYpoWB1ADm/ngunnvhWeRdJgyCgmGE9eF1l\u002BCkmd1\u002B7MD8YNni17Fvdx5FeoNFuazkoE1cVfIFjKZYkliSOGDMqkUUS0W88s8VePjRe/Diij8iGo3h0ouuRVO8Bd1dI7Hg/seQYPvJpxdh7o/uxK8e/yXefe9d5G2behg/VOJIRmXRQlrISFhnhK77wSJ9xeYrtVmXdcK0VDwrhnKB1uFI7AioQEeaLivQBTpXJIDA2nMdbN7yFp5\u002B9vfo6VyL9pZOjB41DqYexgXnXoZ4YxP\u002B8sIzuOOuW5CXleg6muPNSKZTKBaL5cAu0rV11Cc0GBq0SKjHCHBfcOeCL3uG/lSwP71cMZQJQqOEnRKfFEApL6TY4umgwKhkaBgY3jMap510JqZ\u002BbRZdMww7d/XCZhyNHTOernSwfMVfadyBLwtgbO3dtxe2nacS9vNCtQDRoemVbcRai\u002BiW3mzNDs1b8LB2x6MzFCDGTZdiiCBsSoYJ0fU0Uk0N3G0G6Za4OWny6bj52nmYff6VDOg8Fi/5Dfr7\u002BpRbxJoCwpbUPvOOuEmyY8BE5Ak7UghIgAhDSsikxJafco4w7HxMAfICjTFUjh\u002ByBZu5w\u002BTRRK3MzOI2\u002Bt8t4e133sSipx7DvB/fjFt/eA2WLX8euZyNlSuXw2QQf\u002BuC2Rh/1ATa0NHYEMeM6TPJ6nDmLwEmYMgIpdvcjxtqn8X5kdWoyWfgb8sh2FVY7935zedVDNG9zY6mo0hQPDYYWAF6Qjb6ubo8wRCTcsm69f/GH55\u002BAh53UaHgwJUEyGS4dOkSTJ92NiZPOhG/e2wxtm/vRW1tHXq6exjkS3Dv3fcilU8rV7VoSVwTeQ6zYy14PT8CG3a1YENfpwD\u002BdfDmqqxiiMS0uvyTDO0ymI\u002BJpDHU4DYl/wwFIUqVEuPDZm4RMOUdWAaUSiVx8cUXkL1FaG1pwSknn4pRI0dh1ZqVWLhwIbK5NEKWEBTwaHHQoidRq9v4grmDWbJfVH/gX3/CC9LQrToLbqA3lrjN5czpMQtkh/mGbZfGRJ56ZjHGTu7BLxY\u002BTFYYDwTjVdipgtqX7Md1N12DztFD0TW6AyPHdOM7l8/Btvff44aQIBahRcaVYpzSaKVRbxWCwNCeQCF3UAG6bOsVjWSHFweNqH20h5j\u002ByZTkIWFHkqPrVtigJhWA4kYRASQidiRIOObaBQzs7UORx46c9hwdTMblIC8/79KeDJ/ctCnZnP9gFVepMqNeKtZ2lniCCGrxX5o7bMA3udPKgGT1AkQYE2YkcwuI6rjsKLGjsa8TuGyzit1BMOVa/sttAVRSPWBq8xu5jgVnlrgK1ddpqKvE\u002BMkTQJE5aMAzlWQ9AqIR7nrFUFUEjLhRnd4Ep8yIMWFDWS4bLf9V2\u002BVOFZykGF5g2NbQbGUS581siNTUqHAmQ5rWUSQgyc68vCtRgMiUwwAXVgQIbxe8VjB\u002BCMTjoGJHtFetiLAQZrkhpdJU04PzciJ8/ArXEb3pxmFfjMdNU\u002BbJstZOdnyJGbkhiiQpwpCKn0EhG5L\u002BpSY40VY1VFVedYt0BKya419lVPVlnHlPuU3dxBntvm9OY10jz\u002BiOp3ce8KzAJiB1OatIkZnaqbjJNCNobmpBa6KVdStaWtqUtDW3obW1LINmxWi5VR6TYak\u002BnmZAl/uDomvHc0jdkXSe8sN4ZdUErfi0Kj5XoZih9qmnTcUrf16JVcvW4KWX1mLVyrVYvYqyei1eXv0PrKFUjfJX/hvslJuDRQ2Xd1hVaKJ1zZoJDTKtTdp6z6t7HGuytGWgWpyX30Fm4SqU\u002BrIY2TMSJxxzvPrkqaQSKlJ/0lP93/7uiWp3cH4Qk/orjze3hXHL/HH45nkdvPryA4OTJhNmFN49ZnT53dqoTfd9yE0zTL2gXmMhOwW5T/\u002BCp/dHSR4V8mVBTis7QRTLwxLA1fYnjVfBqO4nxqU0VQCdQ0DymSSALCq3Av/taOxvE3Saol5mEbluOCaCPL\u002B/cnXcTfXww/ye4pmkxxtgNdchTmWJ1jCaKtJMaalIK\u002BfaWLe1WZ\u002BS9k\u002BIgIm3WAhHaKuCcVA0ffTRRzdaWuvP5kyLnHrUZVzuxCDQO7SAOZ5B7exJwtmym/cYuomMDQ\u002BncVb7h\u002BrglU8duYyHuDLpywkttU7N/MZgb5CQwYZs9R3cvTFeMMZ/qYFhEFPshKlDvtlkz4dDoSkqbhpun5EwE/XnRM8YP4sDEwm3kQcMlcldhVcGAjqt/iNcNXSTUhCuKJKaZ6YCJgBZMduXESjFLOouxqF\u002BzmxlfouyIwDkQzJCFqQtugSQFQRL1VdHce2WfGF979t\u002Bf2ad5pb6reFNjeSpmd40RJvOM\u002B4I3gCOjSXRYjio41i0AkYBochWlgRboOEcRzLqKqzjIJ/oZzi84NRgj6QUjtl8riq8PqsxddumTQVISmAX/dJb2/tKm3avN4bE3jR6EhlN10cQWA1taBmubmuxAduyTbBKjCWziKghB0DZK9ISkWNBDmqbQGy\u002BmKLsDEz83RUHaWRT3KtxMbK7NHVpzPHjPBNouxwdPxJ9nyvGkHrNaG1INM2/8Cirp\u002BlG7qdviPtkCaFMIxqSCTTGUsHE1g9XX9W50Y6bpWN4WA7hjVNT93I\u002BKedikXWe72xxQ9jBe3oLmW7lNopzH3HLyyX3YEQ3Hr/v\u002BjdWbN2YGuB9adMhAVWL3lSna6beMHTFbafytjefcTXaPdjG3NSe12r7Hig99PPfxN5529a1INLbO6khU4zNIZiz6LYROYaG3ECrgGQxCX5yM4YKkYD5dcmO\u002Bx\u002Bdv6mXJKUG9hdtp6ROxv\u002B9hLqb6ns2PPiTjlcXbay5\u002BMKLKsOHLHMu7UzszU67/IPcN159LTcz9\u002Bf0LG9letb7L26bPqXyyGEK8B8bDclK\u002Br1K6QAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-03-07T17:17:20.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

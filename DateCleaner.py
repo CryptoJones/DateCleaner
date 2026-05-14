@@ -1,33 +1,23 @@
 import os
 import re
+import sys
 
-# Get the list of files in the current directory
-current_directory = os.getcwd()
-path_string = "C:\\Users\\akclark\\Dropbox\\Family Info\\_Health\\"
-files = os.listdir(path_string)
-
-# Function to modify the filename
-def modify_filename(filename):
-    # Check if the filename starts with a date in YYYYMMDD format
-    match = re.match(r'(\d{4})(\d{2})(\d{2})(.*)', filename)
-    
+def modify_filename(path_string, filename):
+    match = re.match(r"(\d{4})(\d{2})(\d{2})(.*)", filename)
     if match:
-        # Extract the date and the rest of the filename
-        year = match.group(1)
-        month = match.group(2)
-        day = match.group(3)
-        rest_of_filename = match.group(4)
-        
-        # Modify the date format by adding hyphens
-        new_filename = f'{year}-{month}-{day}{rest_of_filename}'
-        
-        # Rename the file
-        os.rename(path_string+filename, path_string+new_filename)
-        print(f'Renamed: {filename} -> {new_filename}')
+        new_name = f"{match.group(1)}-{match.group(2)}-{match.group(3)}{match.group(4)}"
+        try:
+            os.rename(os.path.join(path_string, filename), os.path.join(path_string, new_name))
+            print(f"Renamed: {filename} -> {new_name}")
+        except OSError as e:
+            print(f"Error renaming {filename}: {e}", file=sys.stderr)
     else:
-        print(f'No date prefix found in: {filename}')
+        print(f"Skipped (no date prefix): {filename}")
 
-# Iterate over the files and modify those with a date prefix
-for file in files:
-    modify_filename(file)
-
+if __name__ == "__main__":
+    target = sys.argv[1] if len(sys.argv) > 1 else os.getcwd()
+    if not os.path.isdir(target):
+        print(f"Directory not found: {target}", file=sys.stderr)
+        sys.exit(1)
+    for f in os.listdir(target):
+        modify_filename(target, f)
